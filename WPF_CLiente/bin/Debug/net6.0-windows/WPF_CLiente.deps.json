@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPF_CLiente/1.0.0": {
+        "runtime": {
+          "WPF_CLiente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_CLiente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
